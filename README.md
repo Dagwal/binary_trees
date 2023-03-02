@@ -256,4 +256,4 @@ Function Prototypes
     * Searching for a node in a binary heap of size `n`.
 
 ## Author
-* Yonas leykun
+* Dagim Wallegne and Mikiyas Kore
